@@ -1,7 +1,8 @@
-Meu nome é Ana Luiza Bernardes
+•Meu nome é Ana Luiza Bernardes
 
-Estou estudando no alura
-Estou me desenvolvendo no JavaScript
-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
+•Estou estudando no alura
+•Estou me desenvolvendo no JavaScript
+•Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 
-@anazw_3
+•Você pode entrar em contato comigo através do Instagram 
+•@anazw_3
